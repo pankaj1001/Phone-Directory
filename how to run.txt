@@ -1,0 +1,6 @@
+1-open command prompt in project directory
+2-run command - "npm install" (wait until completed)
+3-run command - "npm start"
+4-visit localhost:3000
+
+or you can run production build if you know how :)

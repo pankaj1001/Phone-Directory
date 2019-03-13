@@ -1,0 +1,10 @@
+
+.site-header {
+    background-color: rgba(0, 0, 0, .85);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+    color: #fff;
+    text-align: center;
+    height: 6vh;
+    margin-bottom: 10px;
+  }
